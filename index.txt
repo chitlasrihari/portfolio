@@ -42,20 +42,21 @@ My job is to build your website so that it is functional and user-friendly but a
 What i'm doing
 
 alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+Tech Learning & Experimentation
+Actively exploring the latest tech trends and enhancing skills through hands-on projects.
 
 alt = Web development icon
 Web development
 High-quality development of sites at the professional level.
 
-alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+alt = app icon
+App Development
+Professional development of application.
 
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+alt = project icon
+Automation Projects & Scripting
+Designing automation tools using Python and integrating AI models into small systems.
+
 
 
 ## testimonials
